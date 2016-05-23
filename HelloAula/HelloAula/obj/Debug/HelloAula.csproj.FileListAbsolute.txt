@@ -1,0 +1,6 @@
+C:\Users\Milena\primeri.csharp.terminal\HelloAula\HelloAula\bin\Debug\HelloAula.exe.config
+C:\Users\Milena\primeri.csharp.terminal\HelloAula\HelloAula\bin\Debug\HelloAula.exe
+C:\Users\Milena\primeri.csharp.terminal\HelloAula\HelloAula\bin\Debug\HelloAula.pdb
+C:\Users\Milena\primeri.csharp.terminal\HelloAula\HelloAula\obj\Debug\HelloAula.csprojResolveAssemblyReference.cache
+C:\Users\Milena\primeri.csharp.terminal\HelloAula\HelloAula\obj\Debug\HelloAula.exe
+C:\Users\Milena\primeri.csharp.terminal\HelloAula\HelloAula\obj\Debug\HelloAula.pdb
